@@ -19,6 +19,7 @@ If the pip doesnt work, write this command
 
 
 
+
 The basic understanding of the app.py can be understood from the comments which are written on every line in the app.py.But to understand the functioning properly, see this:
 
 -Take the pdf, extract the context/data from the pdf, split it in chunks. Then the chunks are represented as embeddings or vectors. These vectors get stored in your knowledge base.Embeddings are the numeric representations of the text from the a file or source.The embeddings help us more conviently on processing the data mor effiecently and effectively.
