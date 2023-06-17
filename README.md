@@ -4,8 +4,7 @@ A Python integrated with OpenAI project which answers questions related to your 
 
  1.def main():
     print('Hello,World!')
-    
-    
+   
     if __name__ == '__main__':
         main()
 Create a project and then a python file, write the code and check if the terminal shows Hello,World to test out your python file.
