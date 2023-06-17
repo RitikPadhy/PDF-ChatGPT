@@ -6,6 +6,7 @@ A Python integrated with OpenAI project which answers questions related to your 
     print('Hello,World!')  
     if __name__ == '__main__':
         main()
+        
 Create a project and then a python file, write the code and check if the terminal shows Hello,World to test out your python file.
     
 2.Download the dependecies for the project using pip for packages which are langchain, pypdf2, python-dotenv, tiktoken, faiss-cpu, openai by writing the  following command:
