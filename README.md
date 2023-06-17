@@ -2,23 +2,22 @@
 
 A Python integrated with OpenAI project which answers questions related to your pdf, and if questions are asked outside your pdf it replies back with "I dont know".The steps involved in performing the project are:
 
-    1.def main():
-        print('Hello,World!')
+ 1.def main():
+    print('Hello,World!')
     
     
     if __name__ == '__main__':
         main()
-        Create a project and then a python file, write the code and check if the terminal shows Hello,World to test out your python file.
+Create a project and then a python file, write the code and check if the terminal shows Hello,World to test out your python file.
     
-    2.Download the dependecies for the project using pip for packages which are langchain, pypdf2, python-dotenv, tiktoken, faiss-cpu, openai by writing the 
-    following command:
-      pip install [package_name]
-    If the pip doesnt work, write this command 
-      python -m pip install [package_name]
+2.Download the dependecies for the project using pip for packages which are langchain, pypdf2, python-dotenv, tiktoken, faiss-cpu, openai by writing the  following command:
+     pip install [package_name]
+If the pip doesnt work, write this command 
+     python -m pip install [package_name]
     
-    3.Delete the print('Hello,World!') and paste the app.py code on the python file. Generate a OpenAI API key from the website             
-    https://platform.openai.com/account/api-keys and copy the api key and store it in .env file. Now, run the code by writing the command writing python -m 
-    streamlit run app.py, and there is your project which is displayed on the streamlit.
+3.Delete the print('Hello,World!') and paste the app.py code on the python file. Generate a OpenAI API key from the website             
+https://platform.openai.com/account/api-keys and copy the api key and store it in .env file. Now, run the code by writing the command writing python -m 
+streamlit run app.py, and there is your project which is displayed on the streamlit.
 
 
 
